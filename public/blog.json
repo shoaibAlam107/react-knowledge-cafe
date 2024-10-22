@@ -1,0 +1,44 @@
+[
+    {
+      "id": "001",
+      "cover_pic": "./../src/assets/images/1.jpg",
+      "title": "The Art of Minimalism",
+      "author": "Sarah Bell",
+      "author_img": "./../src/assets/images/boy1.png",
+      "posted_date": "October 12, 2024",
+      "reading_time": "7 minutes",
+      "hashtags": ["#minimalism", "#lifestyle", "#design", "#simplicity"]
+    },
+    {
+      "id": "002",
+      "cover_pic": "./../src/assets/images/2.jpg",
+      "title": "Mastering Digital Marketing",
+      "author": "John Harris",
+      "author_img": "./../src/assets/images/boy2.png",
+      "posted_date": "September 29, 2024",
+      "reading_time": "10 minutes",
+      "hashtags": ["#digitalmarketing", "#strategy", "#SEO", "#contentcreation"]
+    },
+    {
+      "id": "003",
+      "cover_pic": "./../src/assets/images/3.jpg",
+      "title": "Exploring Space: The New Frontier",
+      "author": "Alice Cooper",
+      "author_img": "./../src/assets/images/girl1.jpg",
+      "posted_date": "October 8, 2024",
+      "reading_time": "12 minutes",
+      "hashtags": ["#space", "#exploration", "#science", "#NASA"]
+    },
+    {
+      "id": "004",
+      "cover_pic": "./../src/assets/images/4.jpg",
+      "title": "Healthy Living: 10 Easy Tips",
+      "author": "David Kim",
+      "author_img": "./../src/assets/images/girl2.jpg",
+      "posted_date": "October 15, 2024",
+      "reading_time": "6 minutes",
+      "hashtags": ["#healthyliving", "#wellness", "#fitness", "#nutrition"]
+    }
+  
+  ]
+  
